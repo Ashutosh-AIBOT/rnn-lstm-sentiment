@@ -1,3 +1,13 @@
+---
+title: RNN LSTM Sentiment
+emoji: 🚀
+colorFrom: indigo
+colorTo: pink
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🧠 RNN LSTM Sentiment Analysis
 
 [![Framework](https://img.shields.io/badge/Framework-PyTorch_2.5-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
